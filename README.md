@@ -1,8 +1,3 @@
-# Basic object in docker
+# Code4fun
 
-Intro some basic objects in docker
-
-- Image
-- Container
-- Volume
-- Network
+Basic cli and command line for fun
